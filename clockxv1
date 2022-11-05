@@ -286,10 +286,10 @@ void loop() {
  }
 
  //------------External input presence/absence judgment-------------------------------
- if ( ext_count > 2000 ) { //If there is no count for 2s or more, it is determined that there is no external input.
+ if ( ext_count > 4000 ) { //If there is no count for 2s or more, it is determined that there is no external input.
    ext_injudge = 0;
  }
- else if ( ext_count < 2000 && ext_pulse == 1 ) {
+ else if ( ext_count < 4000 && ext_pulse == 1 ) {
    ext_injudge = 1;
  }
 
