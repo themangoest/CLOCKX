@@ -1,7 +1,8 @@
 # CLOCKX
 
 Mouser Cart: https://www.mouser.be/api/CrossDomain/GetContext?syncDomains=www&returnUrl=https%3a%2f%2fwww.mouser.com%2fProjectManager%2fProjectDetail.aspx%3fAccessID%3dcb27f395c4&async=False&setPrefSub=False&clearPrefSub=False
-Multiple Divider Clock Machine
+
+<B>Multiple Divider Clock Machine</B>
 
 Mega clock module
 
